@@ -1,5 +1,5 @@
 # Hi ![GIF1](https://i.imgur.com/iWbQVpV.gif) I'm Aaliyah Young ![Aaliyah's GIF](https://i.imgur.com/sfxstqI.gif)
 
-Hello! I'm Aaliyah Young, a passionate student at ASU with a 3.67 GPA. I specialize in web development, focusing on creating engaging, user-friendly websites. I enjoy designing with a creative touch, making sure every project is both functional and visually appealing. When I'm not coding, you can find me exploring new technologies, working on personal projects, or relaxing with a good book. I'm always eager to learn and grow in the tech field!
+I'm an aspiring front-end developer! Im 21 and currently a senior of ASU, I'm still a little clueless of what to do for the future but hopefully I land a job as a web developer! I've been learning to code HTML since in middle school and high school using a website called "toyhouse" (since you needed to pay a premium to use CSS) it wasnt until I enrolled in college I started to learn how to code in CSS as well!
 
-Check out [my CodePen](https://codepen.io/your-work) ![CodePen GIF](https://i.imgur.com/Yn7J3Iy.gif)
+![CodePen GIF](https://i.imgur.com/Yn7J3Iy.gif) [my CodePen](https://codepen.io/your-work) 
