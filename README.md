@@ -5,4 +5,4 @@ I'm an aspiring front-end developer! Im 21 and currently a senior of ASU, I'm st
 ![CodePen GIF](https://i.imgur.com/Yn7J3Iy.gif) [my CodePen](https://codepen.io/your-work) 
 
 
-![GIF[(https://i.imgur.com/ATyeX5O.gif)
+![GIF](https://i.imgur.com/ATyeX5O.gif)
